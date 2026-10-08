@@ -1,4 +1,4 @@
-# Hi, I'm Josh
+# Joshua Kozo
 
 I'm an Applied Mathematics and Statistics student at Emory University, interested in applied mathematics, especially optimization, and its applications in data science and computer science.
 
